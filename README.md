@@ -23,7 +23,11 @@ Changes not staged for commit:
 
 ## Purpose of the following commands
 
-- 'mkdir': [purpose]
-- 'cd': [purpose]
-- 'code': [purpose]
-- 'ls': [purpose]
+- 'mkdir': [used to create directories]
+- 'cd': [change the current working directory to get info, modify, read, etc. inside of your system]
+- 'code': []
+- 'ls': [quickly view all files within the selected directory]
+
+## Why Version Control is Important
+
+With version control, it is possible to

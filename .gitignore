@@ -1,0 +1,11 @@
+# Windows
+thumbs.db
+Desktop.ini
+
+# Python
+.pyc
+.pyo
+__pychache__/
+
+# Visual Studio Code
+.vscode/
