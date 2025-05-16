@@ -25,9 +25,14 @@ Changes not staged for commit:
 
 - 'mkdir': [used to create directories]
 - 'cd': [change the current working directory to get info, modify, read, etc. inside of your system]
-- 'code': []
+- 'code': [acts as a bridge between my terminal (gitbash) and visual studio code]
 - 'ls': [quickly view all files within the selected directory]
 
 ## Why Version Control is Important
 
 With version control, it is possible to
+- See what you changed, when you changed it.
+- Track who contributed to specific changes.
+- Track the specific reasons a change was made.
+- Have multiple developers work on different parts without impacting the other.
+- Have backups of previous versions in the event they are needed.
