@@ -21,4 +21,9 @@ Changes not staged for commit:
   (use "git restore <file>..." to discard changes in working directory)
         modified:   README.md
 
+## Purpose of the following commands
 
+- 'mkdir': [purpose]
+- 'cd': [purpose]
+- 'code': [purpose]
+- 'ls': [purpose]
