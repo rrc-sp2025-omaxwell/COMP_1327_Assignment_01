@@ -49,3 +49,12 @@ With version control, it is possible to
 - 'git branch': [Creates a new working branch of the codebase allowing developers to create a working copy of the code independent of other branches, this quarantines the new code from existing codebases.]
 - 'git merge': [Allows a developer to merge their new branch into an existing branch, this process allows developers to combine their segmented work with the latest version of the codebase.]
 - 'git checkout': [This command is used to navigate between seperate branches. example: "git checkout branch_name]
+
+## My Unique Touch
+
+There are things that set mee apart from the others:
+
+- I have double jointed fingers.
+- My left eye cannot look left.
+- I never learned how to play clarinet after 5 years of band class.
+- When I get bored I tend to subconsciously whistle.
